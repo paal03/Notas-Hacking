@@ -45,5 +45,5 @@ picoCTF{7h3_r04d_l355_7r4v3l3d_8e47d128}
 ## **Notas adicionales**
 También podemos hacer un cat el archivo python y ver el código que contiene, en este nos podemos dar cuenta de que tiene una cadena con strings que al parecer son hexadecimales, , podemos solo extraer la cadena y hacer la conversión de hexa a texto
 
-	## **Referencias**
+## **Referencias**
 https://gchq.github.io/CyberChef/
