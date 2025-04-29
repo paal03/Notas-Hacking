@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "331ecdee5e6e4ad3",
+        "id": "347803b275ac7961",
         "type": "tabs",
         "children": [
           {
-            "id": "80ff5589f37814c0",
+            "id": "4e824adcb0eebe32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Parcial Parte 1 - General Skills/10 - Specialer.md",
+                "file": "picoCTF/Forensic 2/05 - shark on wire 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Specialer"
+              "title": "05 - shark on wire 2"
             }
           }
         ]
@@ -168,12 +168,25 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "80ff5589f37814c0",
+  "active": "4e824adcb0eebe32",
   "lastOpenFiles": [
+    "picoCTF/Forensic 2/04 - like1000.md",
+    "picoCTF/Forensic 2/03 - c0rrupt.md",
+    "Capturas de pantalla/03 - c0rrupt.png",
+    "picoCTF/Forensic 2/02 - WhitePages.md",
+    "picoCTF/Forensic 2/01 - m00nwalk.md",
+    "picoCTF/Forensic 2/05 - shark on wire 2.md",
+    "picoCTF/Forensic 1/05 - What Lies Within.md",
+    "picoCTF/Forensic 1/Sin título.md",
+    "picoCTF/Forensic 2",
+    "picoCTF/picoCTF Web 3/01 - Irish-Name-Repo 1.md",
+    "picoCTF/Parcial Parte 2 - Web/06 - findme.md",
+    "picoCTF/Parcial Parte 2 - Web/05 - SSTI1.md",
+    "picoCTF/Parcial Parte 2 - Web/04 - n0s4n1ty 1.md",
+    "picoCTF/Parcial Parte 1 - General Skills/10 - Specialer.md",
     "picoCTF/Parcial Parte 1 - General Skills/09 - SansAlpha.md",
     "picoCTF/Parcial Parte 1 - General Skills/08 - flag_shop.md",
     "picoCTF/Parcial Parte 1 - General Skills/06 - Rust fixme 3.md",
-    "picoCTF/Parcial Parte 1 - General Skills/10 - Specialer.md",
     "picoCTF/Parcial Parte 1 - General Skills/07 - dont-you-love-banners.md",
     "picoCTF/Parcial Parte 1 - General Skills/04 - Rust fixme 1.md",
     "picoCTF/Parcial Parte 1 - General Skills/02 - HashingJobApp.md",
@@ -184,32 +197,18 @@
     "picoCTF/Competencia/General Skills/03 - Rust fixme 3.md",
     "picoCTF/Competencia/General Skills/01 - Rust fixme 1.md",
     "picoCTF/Parcial Parte 1 - General Skills/01 - FANTASY CTF.md",
-    "picoCTF/Parcial Parte 2 - Web/01 - Bookmarklet.md",
-    "picoCTF/Parcial Parte 2 - Web/10 - WebSockFish.md",
     "picoCTF/Parcial Parte 1 - General Skills",
-    "picoCTF/Parcial Parte 2 - Web/07 - Java Code Analysis.md",
-    "picoCTF/Parcial Parte 2 - Web/05 - SSTI1.md",
-    "picoCTF/Parcial Parte 2 - Web/09 - SSTI2.md",
-    "picoCTF/Parcial Parte 2 - Web/08 - SQL Direct.md",
-    "picoCTF/Parcial Parte 2 - Web/06 - findme.md",
     "Capturas de pantalla/07 - Java Code Analysis.png",
     "Capturas de pantalla/06 - findme.png",
-    "picoCTF/Parcial Parte 2 - Web/04 - n0s4n1ty 1.md",
     "Capturas de pantalla/04 - n0s4n1ty 1.png",
-    "picoCTF/picoCTF Web 4/03 - Trickster.md",
-    "picoCTF/Parcial Parte 2 - Web/03 - head-dump.md",
-    "picoCTF/Parcial Parte 2 - Web/02 - Cookie Monster Secret Recipe.md",
     "Capturas de pantalla/02 - Cookie Monster Secret Recipe.png",
-    "picoCTF/picoCTF Web 1/04 - dont-use-client-side.md",
     "picoCTF/Parcial Parte 2 - Web",
-    "Sin nombre",
     "picoCTF/Forensic 1",
     "Capturas de pantalla/10 - WebDecode.png",
     "Pasted image 20250406112532.png",
     "Pasted image 20250406112615.png",
     "Capturas de pantalla/08 - SQLiLite.png",
     "Pasted image 20250406110049.png",
-    "Capturas de pantalla/Pasted image 20250405232205.png",
     "picoCTF/Tarea Web/Sin nombre",
     "picoCTF/Sin nombre/Sin nombre",
     "picoCTF/02 - Tarea Web",
