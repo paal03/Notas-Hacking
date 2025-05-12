@@ -5,7 +5,14 @@ Additional details will be available after launching your challenge instance.
 1. 
 ## **Solución** 
 Para este reto haremos lo siguiente:
-- 
+- Descargaremos la imagen con la liga que nos dan.
+- Ahora descomprimimos el archivo zip.
+- Primero usamos mmls para ver la estructura.
+- Ahora con este información, podemos ver el tamaño de las particiones.
+- Después de buscar un poco dentro de las particiones encuentro lo que parece ser una llave ssh, entonces procedo a extráela con,  icat disk.img -o 206848 2345 > key_file.
+- Ahora le cambio los permisos con chmod 600 key_file .
+- Por ultimo solo queda conectarme al servidor ssh, usando la llave que obtuve.
+- Una vez dentro del servidor, solo queda leer el unico archivo que hay.
 
 
 ```

@@ -7,8 +7,11 @@ Use `srch_strings` from the sleuthkit and some terminal-fu to find a flag in thi
 4. Using your own computer, you could use qemu to boot from this disk!
 ## **Solución** 
 Para este reto haremos lo siguiente:
-- mmls
-
+- Descargaremos la imagen con la liga que nos dan.
+- Ahora descomprimimos el archivo.
+- Primero usamos mmls para ver la estructura.
+- Como se menciona en la descripción de la pregunta, usaremos srch_strings, junto con grep para filtrar de mejor manera la salida de los datos.
+- Con esto nos dará la bandera
 
 ```
 ┌──(kali㉿kali)-[~/Documents/PicoCTF/Forensics/Disk, disk, sleuth]

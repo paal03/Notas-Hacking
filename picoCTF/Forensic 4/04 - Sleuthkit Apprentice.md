@@ -6,7 +6,13 @@ Download this disk image and find the flag.Note: if you are using the webshell, 
 1. 
 ## **Solución** 
 Para este reto haremos lo siguiente:
-- 
+- Descargaremos la imagen con la liga que nos dan.
+- Ahora descomprimimos el archivo zip.
+- Primero usamos mmls para ver la estructura.
+- Ahora con este información, podemos ver el tamaño de las particiones.
+- Ahora con esto podremos listar los nombres y directorios de dicha partición.
+- Después de navegar hasta la ruta indicada, usaremos icat para visualizar el contenido de ese sector de la partición donde se encontrara la bandera.
+- Con esto obtendremos la bandera.
 
 
 ```

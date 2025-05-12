@@ -4,7 +4,13 @@
 1. Look at the problem category
 ## **Solución** 
 Para este reto haremos lo siguiente:
-- 
+- Nos vamos a la liga que nos dan, este nos manda a un pagina web
+- Inspeccionamos la pagina en busca de algo, pero solo vemos lo que parece ser una imagen.
+- Descargamos dicha imagen.
+- Ahora parece que hay datos ocultos dentro de la imagen así que para ello usaremos la herramienta de zsteg.
+- Al usar zsteg -a analizaremos el archivo y nos devolverá los datos ocultos.
+- Para mayor rapidez le agregamos un grep con una indicio de lo que estamos buscando.
+- Esto nos devolver a la bandera.
 
 
 ```

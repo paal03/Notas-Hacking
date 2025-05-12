@@ -6,8 +6,13 @@ Additional details will be available after launching your challenge instance.
 1. 
 ## **Solución** 
 Para este reto haremos lo siguiente:
-- 
-
+- Descargaremos la imagen con la liga que nos dan.
+- Ahora descomprimimos el archivo zip.
+- Primero usamos mmls para ver la estructura.
+- Ahora con este información, podemos ver el tamaño de las particiones.
+- Nos conectamos al servidor mencionado con NC.
+- Ya solo basta con introducir la respuesta a la pregunta que nos hacen.
+- Con esto nos darán la bandera.
 
 ```
 ┌──(kali㉿kali)-[~/Documents/PicoCTF/Forensics/Sleuthkit tools]
